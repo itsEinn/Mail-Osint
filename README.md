@@ -14,7 +14,7 @@
 
 ## Servisler (APIs):
 
-\[not required to run the program\]
+
 
 | Service | Function | Status |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@
 
 ## İndirme:
 
-git clone https://github.com/itsEinn/Mail-Osint
+`git clone https://github.com/itsEinn/Mail-Osint`
 
 `pip3 install -r requirements.txt`
 
