@@ -16,7 +16,7 @@
 
 
 
-| Service | Function | Status |
+| Servis | Fonksiyon | Durum |
 | :--- | :--- | :--- |
 | [ipapi.co](https://ipapi.co/) - Public | Domain hakkında daha fazla bilgi | :white\_check\_mark: |
 | [hunter.io](https://hunter.io/) - Public | İlgili mailler | :white\_check\_mark: :key: |
@@ -32,7 +32,13 @@
 - API keyinizi `keys.json` a kaydedin
 - Sisteme `Go` ve `Python` dillerini indirin
 
-## İndirme:
+## Kurulum:
+
+`apt install git`
+
+`apt install python`
+
+`apt install golang`
 
 `git clone https://github.com/itsEinn/Mail-Osint`
 
@@ -59,6 +65,6 @@ Yardım menüsü için `-h` yazabilirsiniz
 
 ### Örnek:
 
-`go run main.go -e ornek@domain.com -all`
+`go run main.go -e ornek@gmail.com -all`
 
 Output(çıkış) Dosyası için `-o` komutu (.txt)
