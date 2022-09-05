@@ -1,6 +1,8 @@
-// Turan Code osint v0.1
+// Mail Osint by Eim v0.1
 // Author: Ein#0112
 // Discord: https://discord.gg/rnUn6qjpeU
+// Discord: discord.gg/112
+
 package main
 
 import (
@@ -21,7 +23,7 @@ import (
 )
 
 func init() {
-	templ := `{{ .Title "Turan Code" "" 2 }}
+	templ := `{{ .Title "MAIL OSINT" "" 2 }}
    {{ .AnsiColor.BrightWhite }}v0.1{{ .AnsiColor.Default }}
    {{ .AnsiColor.BrightCyan }}discord - Ein#0112{{ .AnsiColor.Default }}
    Tarih: {{ .Now "Monday, 2 Jan 2006" }}`
