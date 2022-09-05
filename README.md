@@ -1,4 +1,4 @@
-# MOSINT
+# EMAİL OSİNT
 
 #### Özellikler:
 
@@ -34,7 +34,10 @@
 
 ## İndirme:
 
+git clone https://github.com/itsEinn/Mail-Osint
+
 `pip3 install -r requirements.txt`
+
 
 ## Kullanım:
 
