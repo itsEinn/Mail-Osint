@@ -1,4 +1,4 @@
-// Mail Osint by Eim v0.1
+// Mail Osint by Ein v0.1
 // Author: Ein#0112
 // Discord: https://discord.gg/rnUn6qjpeU
 // Discord: discord.gg/112
