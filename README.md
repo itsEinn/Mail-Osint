@@ -3,10 +3,10 @@
 #### Özellikler:
 
 * Mail doğrulaması
-* Socialscan ve Holehe ile sosyal medya hesabı kontrolü
-* Veri ihlallerini ve parola sızıntılarını kontrol edin
-* İlgili mailleri ve domainleri bulun
-* Pastebin ve Throwbin dökümlerini tara
+* Socialscan ve Holehe ile sosyal medya hesabı kontrolü yapar
+* Veri ihlallerini ve parola sızıntılarını kontrol eder
+* İlgili mailleri ve domainleri bulur
+* Pastebin ve Throwbin dökümlerini tarar
 * Google araması
 * DNS Araması
 * IP Araması
