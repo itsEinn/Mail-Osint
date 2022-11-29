@@ -1,7 +1,5 @@
 // Mail Osint by Ein v0.1
-// Author: Ein#0112
-// Discord: https://discord.gg/rnUn6qjpeU
-// Discord: discord.gg/112
+// Author: thEinn#4535
 
 package main
 
@@ -25,7 +23,7 @@ import (
 func init() {
 	templ := `{{ .Title "MAIL OSINT" "" 2 }}
    {{ .AnsiColor.BrightWhite }}v0.1{{ .AnsiColor.Default }}
-   {{ .AnsiColor.BrightCyan }}discord - Ein#0112{{ .AnsiColor.Default }}
+   {{ .AnsiColor.BrightCyan }}discord - thEinn#4535{{ .AnsiColor.Default }}
    Tarih: {{ .Now "Monday, 2 Jan 2006" }}`
 
 	banner.InitString(colorable.NewColorableStdout(), true, true, templ)
